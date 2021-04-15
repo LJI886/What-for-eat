@@ -1,0 +1,17 @@
+.btn-outline-yellow
+{color:#FFD983;border-color:#FFD983}
+
+.btn-outline-yellow:hover
+{color:white;background-color:#FFD983;border-color:#FFD983}
+
+.btn-check:focus+.btn-outline-yellow,.btn-outline-yellow:focus
+{box-shadow:0 0 0 .25rem rgba(13,202,240,.5)}
+
+.btn-check:active+.btn-outline-yellow,.btn-check:checked+.btn-outline-yellow,.btn-outline-yellow.active,.btn-outline-yellow.dropdown-toggle.show,.btn-outline-yellow:active
+{color:white;background-color:#FFD983;border-color:#FFD983}
+
+.btn-check:active+.btn-outline-yellow:focus,.btn-check:checked+.btn-outline-yellow:focus,.btn-outline-yellow.active:focus,.btn-outline-yellow.dropdown-toggle.show:focus,.btn-outline-yellow:active:focus
+{box-shadow:0 0 0 .25rem rgba(13,202,240,.5)}
+
+.btn-outline-yellow.disabled,.btn-outline-yellow:disabled
+{color:#FFD983;background-color:transparent}
